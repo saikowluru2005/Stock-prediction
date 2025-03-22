@@ -1,0 +1,6 @@
+flask
+nsetools
+yfinance
+pandas
+scikit-learn
+numpy 
